@@ -1,0 +1,33 @@
+
+body{
+    background:white;
+    margin: 10px auto;
+    
+}
+h1, p{
+    margin: 10px auto;
+    display: block;
+    justify-content: center;
+    text-align: center;
+     color: #17194a;
+    
+}
+#clickme{
+    margin: 10px auto;
+    display: block;
+    padding:2px
+    justify-content: center;
+    text-align: center;
+    background: #9d5858;
+    color: white;
+    font-size: 14px;
+}
+.box{
+    margin: 0px auto;
+    width: 200px;
+    height:50px;
+    border:2px solid #212121;
+}
+.hidden{
+    display: none;
+}
